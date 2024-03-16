@@ -50,7 +50,7 @@ def train_model():
     print('Data Captured!')
 
     for i, face_img in enumerate(face_data):
-        cv2.imwrite(f'data/{student_name}.jpg', face_img)
+        cv2.imwrite(f'data/images/{student_name}.jpg', face_img)
 
     with open('data/student_details.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)

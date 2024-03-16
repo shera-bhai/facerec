@@ -20,9 +20,9 @@ def track_faces():
 
     known_face_encodings = []
     known_names = []
-    for file_name in os.listdir('data'):
+    for file_name in os.listdir('data/images'):
         if file_name.endswith('.jpg'):
-            img = face_recognition.load_image_file(f'data/{file_name}')
+            img = face_recognition.load_image_file(f'data/images/{file_name}')
             face_encoding = face_recognition.face_encodings(img)[0]
             known_face_encodings.append(face_encoding)
             known_names.append(file_name.split('.')[0])
