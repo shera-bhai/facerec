@@ -50,7 +50,7 @@ FaceRec Tracker Attendance System using Python.
 
 ## Contributing
 
-Feel free to contribute to the development of this Calculator. Fork the repository and submit a pull request.
+Feel free to contribute to the development of this FaceRec Attendance System. Fork the repository and submit a pull request.
 
 ## Developer
 
