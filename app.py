@@ -1,4 +1,5 @@
 import os
+import subprocess
 from tkinter import *
 from tkinter import ttk
 from CTkTable import *
@@ -17,6 +18,18 @@ class Second_Screen(ctk.CTkToplevel):
         self.path = os.path.dirname(os.path.realpath(__file__))
         self.open = ctk.CTkImage(dark_image=Image.open(self.path + "/assets/bkg2.jpg"), size=(1550, 900))
         self.bkg = ctk.CTkLabel(self, image=self.open, text='').pack(padx=1, pady=1)
+        self.btn_1 = ctk.CTkButton(self, text="Train Model", anchor=ctk.CENTER, compound="top", width=250, height=230, command=self.train_model, font=self.font, border_color="white", border_width=2, corner_radius=10, bg_color="#002949")
+        self.btn_1.place(x=50, y=250)
+        self.btn_2 = ctk.CTkButton(self, text="Mark Attendance", anchor=ctk.CENTER, compound="top", width=250, height=230, command=self.track_faces, font=self.font, border_color="white", border_width=2, corner_radius=10, bg_color="#002949")
+        self.btn_2.place(x=50, y=525)
+        self.btn_3 = ctk.CTkButton(self, text="Check Attendance", anchor=ctk.CENTER, compound="top", width=250, height=230, command=self.train_model, font=self.font, border_color="white", border_width=2, corner_radius=10, bg_color="#002949")
+        self.btn_3.place(x=350, y=250)
+
+    def train_model(self):
+        subprocess.Popen(["python", "train_model.py"])
+
+    def track_faces(self):
+        subprocess.Popen(["python", "track_faces.py"])
 
 class App(ctk.CTk):
     def __init__(self, *args, **kwargs):
