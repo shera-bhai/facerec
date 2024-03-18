@@ -8,11 +8,11 @@ FaceRec Tracker Attendance System using Python.
 
 ## Screenshots
 
-![Screenshot 1]![1](https://github.com/shera-bhai/facerec/assets/78367273/87f05824-b5f7-42c5-91b2-8a99237074dd)
+- Screenshot 1 ![1](https://github.com/shera-bhai/facerec/assets/78367273/87f05824-b5f7-42c5-91b2-8a99237074dd)
 
-![Screenshot 2]![2](https://github.com/shera-bhai/facerec/assets/78367273/a179c95d-bd19-4e6e-b3bc-10fd3f0428e0)
+- Screenshot 2 ![2](https://github.com/shera-bhai/facerec/assets/78367273/a179c95d-bd19-4e6e-b3bc-10fd3f0428e0)
 
-![Screenshot 3]![3](https://github.com/shera-bhai/facerec/assets/78367273/bbf3e983-75c8-4fc8-bed5-fc2fc3923edc)
+- Screenshot 3![3](https://github.com/shera-bhai/facerec/assets/78367273/bbf3e983-75c8-4fc8-bed5-fc2fc3923edc)
 
 ## Requirements
 
