@@ -19,7 +19,7 @@ FaceRec Tracker Attendance System using Python.
 - Numpy
 - OpenCV
 - Python 3.x
-- Face Recognition
+- Face Recognition Libraries
 - Tkinter Library (included with Python)
 
 ## Installation
