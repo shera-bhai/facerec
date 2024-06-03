@@ -51,7 +51,7 @@ FaceRec Tracker Attendance System using Python.
     python train_model.py
     ```
 
-## Contributing
+## Contribution
 
 Feel free to contribute to the development of this FaceRec Attendance System. Fork the repository and submit a pull request.
 
