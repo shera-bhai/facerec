@@ -1,6 +1,6 @@
 # Modern GUI FaceRec Attendance System
 
-FaceRec Tracker Attendance System using Python.
+Face Recognition Based Attendance System using Python.
 
 ## Features
 - Realtime Face Tracking & Detection.
