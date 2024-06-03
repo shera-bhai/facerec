@@ -11,11 +11,11 @@ Face Recognition Based Attendance System using Python.
 
 ## Screenshots
 
-- Landing Page ![1](https://github.com/shera-bhai/facerec/assets/78367273/87f05824-b5f7-42c5-91b2-8a99237074dd)
+- Landing Page ![Landing Page](https://github.com/shera-bhai/facerec/assets/78367273/87f05824-b5f7-42c5-91b2-8a99237074dd)
 
-- Second Page ![2](https://github.com/shera-bhai/facerec/assets/78367273/a179c95d-bd19-4e6e-b3bc-10fd3f0428e0)
+- Second Page ![Second Page](https://github.com/shera-bhai/facerec/assets/78367273/a179c95d-bd19-4e6e-b3bc-10fd3f0428e0)
 
-- Mark Attendance Page ![3](https://github.com/shera-bhai/facerec/assets/78367273/bbf3e983-75c8-4fc8-bed5-fc2fc3923edc)
+- Mark Attendance Page ![Mark Attendance Page](https://github.com/shera-bhai/facerec/assets/78367273/bbf3e983-75c8-4fc8-bed5-fc2fc3923edc)
 
 ## Requirements
 
