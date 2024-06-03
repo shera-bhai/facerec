@@ -3,7 +3,10 @@
 FaceRec Tracker Attendance System using Python.
 
 ## Features
-
+- Realtime Face Tracking & Detection.
+- Matching the Tracked Faces with Pre-Trained Data.
+- Marks the attendance of the faculty if authorized and data is found.
+- Only tracks one person at a time to overcome data inconsistency.
 
 
 ## Screenshots
